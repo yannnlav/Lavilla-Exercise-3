@@ -1,3 +1,4 @@
+// Ariane Marie L. Lavilla, BSCS3A - AI
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
